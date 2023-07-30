@@ -1,0 +1,21 @@
+table {
+  border: 2px solid rgb(190, 184, 184);
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid rgb(190, 184, 184);
+  text-align: center;
+  box-sizing: border-box;
+  border-spacing: 0px;
+  border-collapse: unset;
+  padding: 10px 20px;
+}
+
+th {
+  background-color: rgb(235, 234, 234);
+}
+
+.planet {
+  border: 2px solid black;
+}
